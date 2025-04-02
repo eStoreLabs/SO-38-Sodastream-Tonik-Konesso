@@ -162,6 +162,7 @@
 }
 #es-rc #es-rc-content .es-one-soda__h2 {
   text-align: center;
+  text-transform: uppercase;
   font-family: "HurmeGeometricSans3-Black", sans-serif;
   font-size: 25px;
 }
