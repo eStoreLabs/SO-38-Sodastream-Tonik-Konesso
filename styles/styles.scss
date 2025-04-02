@@ -1022,7 +1022,7 @@ $yellow-dark: #F7B800;
 
       .es-bottle__single {
         &:nth-child(1) {
-          margin-right: -90px;
+          margin-right: -25px;
         }
 
         &:nth-child(3) {
@@ -1167,6 +1167,13 @@ $yellow-dark: #F7B800;
 
 @media (min-width: 1100px) {
   #es-rc #es-rc-content {
+    .es-bottle__wrapper {
+      .es-bottle__single {
+        &:nth-child(1) {
+          margin-right: -90px;
+        }
+      }
+    }
     .es-day {
       &__wrapper {
         .es-day__wrapper-blue-background {

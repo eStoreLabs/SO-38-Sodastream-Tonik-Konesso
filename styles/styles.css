@@ -800,7 +800,7 @@
     justify-content: center;
   }
   #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single:nth-child(1) {
-    margin-right: -90px;
+    margin-right: -25px;
   }
   #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single:nth-child(3) {
     margin-left: -100px;
@@ -909,6 +909,9 @@
   }
 }
 @media (min-width: 1100px) {
+  #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single:nth-child(1) {
+    margin-right: -90px;
+  }
   #es-rc #es-rc-content .es-day__wrapper .es-day__wrapper-blue-background {
     height: 135%;
   }
