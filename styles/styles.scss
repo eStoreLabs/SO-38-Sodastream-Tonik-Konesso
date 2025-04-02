@@ -1002,7 +1002,7 @@ $yellow-dark: #F7B800;
       }
     }
 
-    .es_change {
+    .es-change {
       &__circle1 {
         display: block;
         position: absolute;
@@ -1015,6 +1015,7 @@ $yellow-dark: #F7B800;
         font-size: 18px;
         max-width: unset;
       }
+      
 
       &__single-img {
         position: relative;
